@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this hypothesis, please cite it as below."
+authors:
+  - family-names: Rizky
+    given-names: Dimas Alfa
+title: "The Tachyon Hypothesis: A Mathematical Model of Temporal Loops at t=0"
+version: 1.0.0
+date-released: 2024-05-21
+url: "https://github.com"
