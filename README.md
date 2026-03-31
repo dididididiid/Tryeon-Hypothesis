@@ -58,3 +58,13 @@ Hanya dengan lahir di luar titik $t=0$ atau melalui proses **Tachyon Condensatio
 
 ---
 📫 **Collaborate on Research:** [siyapasaya@gmail.com]
+---
+
+### 🔍 Open Questions & Future Research
+Hipotesis ini masih menyisakan beberapa pertanyaan terbuka untuk dikembangkan lebih lanjut:
+
+1. **Decay Mechanism:** Bagaimana transisi fase dari massa imajiner Tachyon menjadi massa riil partikel biasa saat melewati ambang $t > \epsilon$?
+2. **Entropy at $t=0$:** Apakah loop rekursif Tachyon berkontribusi pada penurunan entropi awal atau justru menjadi pemicu fluktuasi termodinamika Big Bang?
+3. **Gravitational Interaction:** Bagaimana pengaruh *Closed Timelike Curve* (CTC) pada skala kuantum terhadap kelengkungan ruang-waktu di sekitar singularitas?
+
+*Saya mengundang rekan peneliti dan fisikawan teoretis untuk mendiskusikan poin-poin di atas melalui Pull Request atau kontak di bawah.*
